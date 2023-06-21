@@ -1,39 +1,55 @@
 #EXTM3U
 #EXTINF:-1 ,纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 ,纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 ,纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 ,纯享4K.备用
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 ,纯享4K.备用
 http://[2409:8087:5c00:10:5::133]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+#EXTINF:-1 ,纯享4K.备用
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV4K
 http://159.75.85.63:5679/cctv4k.php
-http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV4K
+http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4K
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4K
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV4K
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 ,CCTV4K.备用
 http://lu1.cc/itv/php/cctv4k.php
 #EXTINF:-1 ,CCTV4K.备用
 http://r.jdshipin.com/krMB5
+#EXTINF:-1 ,CCTV4K.备用
 http://livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 ,CCTV4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,CCTV4K.备用.1080P
 http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 ,CCTV4K.备用.1080P
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,CCTV16-4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 ,CCTV16-4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV16-4K.备用
 http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV16-4K.备用
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV16-4K.备用
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV16-4K.备用
 http://39.134.175.224:18890/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
@@ -45,19 +61,27 @@ http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 ,咪咕体育4K
 http://r.jdshipin.com/ln4xk
+#EXTINF:-1 ,咪咕体育4K
 http://117.136.156.98:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕体育4K
 http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 ,咪咕体育4K
 http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+#EXTINF:-1 ,咪咕体育4K
 http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 #EXTINF:-1 ,咪咕体育4K.备用
 http://r.jdshipin.com/EmWIN
 #EXTINF:-1 ,咪咕体育4K.备用
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕体育4K.备用
 http://39.134.136.141:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕体育4K.备用
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕体育4K.备用
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 ,百视通4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 ,百视通4K
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 ,百视通4K.备用
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
